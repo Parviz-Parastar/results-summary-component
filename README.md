@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Parviz-Parastar/results-summary-component)
+- Live Site URL: [Add live site URL here](https://parviz-parastar.github.io/results-summary-component/)
 
 ## My process
 
