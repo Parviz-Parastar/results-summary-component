@@ -30,7 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](url)
+![Screenshot-active-states](https://raw.githubusercontent.com/Parviz-Parastar/results-summary-component/main/My-Screenshot/Screenshot-%20mobile-designt.png)
+![Screenshot-desktop-design](https://github.com/Parviz-Parastar/results-summary-component/blob/main/My-Screenshot/Screenshot-desktop-design.png?raw=true)
+![Screenshot-mobile-designt](https://github.com/Parviz-Parastar/results-summary-component/blob/main/My-Screenshot/Screenshot-%20mobile-designt.png?raw=true)
 
 ### Links
 
