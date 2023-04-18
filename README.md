@@ -29,9 +29,11 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-![Screenshot-active-states](https://raw.githubusercontent.com/Parviz-Parastar/results-summary-component/main/My-Screenshot/Screenshot-%20mobile-designt.png)
+#### Screenshot-active-states
+![Screenshot-active-states](https://github.com/Parviz-Parastar/results-summary-component/blob/main/My-Screenshot/Screenshot-active-states.jpg?raw=true)
+#### Screenshot-desktop-design
 ![Screenshot-desktop-design](https://github.com/Parviz-Parastar/results-summary-component/blob/main/My-Screenshot/Screenshot-desktop-design.png?raw=true)
+#### Screenshot-mobile-designt
 ![Screenshot-mobile-designt](https://github.com/Parviz-Parastar/results-summary-component/blob/main/My-Screenshot/Screenshot-%20mobile-designt.png?raw=true)
 
 ### Links
